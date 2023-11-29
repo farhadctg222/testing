@@ -14,4 +14,4 @@ jobs:
         server: ftp.lawyer-bangladesh.com
         username: lawyer-bangladesh@lawyer-bangladesh.com
         password: ${{ secrets.FTP_PASS }}
-        port:${{ftp_port}
+      
